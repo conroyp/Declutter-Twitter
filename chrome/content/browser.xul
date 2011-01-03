@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://decluttertwitter/skin/skin.css" type="text/css"?>
+<!DOCTYPE twittermediapreview SYSTEM "chrome://decluttertwitter/locale/translations.dtd">
+<overlay id="sample" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <script src="decluttertwitter.js" />
+
+    <statusbar id="status-bar">
+        <statusbarpanel id="declutter-twitter-status-bar-icon" class="statusbarpanel-iconic" src="chrome://decluttertwitter/skin/status-bar.png" onclick="declutterTwitter.run()" />
+    </statusbar>
+</overlay>
