@@ -1,8 +1,8 @@
-content     devluttertwitter    chrome/content/
-content     devluttertwitter    chrome/content/ contentaccessible=yes
-overlay   chrome://browser/content/browser.xul    chrome://devluttertwitter/content/browser.xul
+content     decluttertwitter    chrome/content/
+content     decluttertwitter    chrome/content/ contentaccessible=yes
+overlay   chrome://browser/content/browser.xul    chrome://decluttertwitter/content/browser.xul
 
-locale	devluttertwitter	en-US	locale/en-US/
+locale	decluttertwitter	en-US	locale/en-US/
 
-skin	devluttertwitter	classic/1.0	skin/
-style	chrome://global/content/customizeToolbar.xul	chrome://devluttertwitter/skin/skin.css
+skin	decluttertwitter	classic/1.0	skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://decluttertwitter/skin/skin.css
