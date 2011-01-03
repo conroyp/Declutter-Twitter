@@ -1,0 +1,9 @@
+This extension is for use on the Twitter.com web interface. 
+It allows entry of a list of keywords which will trigger hiding of a tweet. This can
+be useful for when otherwise follow-worthy folk start tweeting about one particular
+topic in which you've no interest (ipad, politics, football, etc).
+
+It is based on the bookmarklet originally described at http://www.conroyp.com/2010/03/11/declutter/ 
+The original bookmarklet works on the old twitter interface, this version should support both
+old and new twitter web interfaces, and remove the user-unfriendliness associated with
+having to repeatedly re-assert bookmarklets.
